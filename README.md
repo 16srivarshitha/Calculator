@@ -8,10 +8,9 @@ A simple yet functional calculator built with HTML, CSS, and JavaScript, featuri
 <li>Setup</li>
 <li>Usage</li>
 <li>Keyboard Shortcuts</li>
-File Structure
-Contributing
+<li>File Structure</li>
 </list>
-**Features**
+<h2>Features</h2>
 - Basic mathematical operations: addition, subtraction, multiplication, division and percentage.
 - The calculator is fully responsive adapting to different screen sizes
 - Supports keyborad inputs for faster calculation
